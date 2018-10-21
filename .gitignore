@@ -102,3 +102,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+jupyter_notebooks/data
+jupyter_notebooks/temp1.ipynb
+
+.idea
